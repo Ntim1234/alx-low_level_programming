@@ -50,7 +50,3 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 	return (p);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
